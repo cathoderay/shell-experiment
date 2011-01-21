@@ -6,7 +6,7 @@
     Description: a simple python REPL
 """
 
-__author__ = "raios at catodicos dot gmail dot com"
+__author__ = "raios dot catodicos at gmail dot com"
 
 
 print """python-shell -- version 0.0.1"""
